@@ -1,4 +1,4 @@
-package controller;
+package com.huseyink.springrest.controller;
 
 
 import org.springframework.web.bind.annotation.RequestMapping;
